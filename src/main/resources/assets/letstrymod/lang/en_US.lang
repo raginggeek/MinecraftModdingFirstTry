@@ -1,0 +1,13 @@
+#keys
+keys.letstrymod.category=Let's Try Mod
+keys.letstrymod.charge=Charge
+keys.letstrymod.release=Release
+
+#Creative Tabs
+itemGroup.letstrymod=Let's Try Mod
+
+#Items
+item.letstrymod:mapleLeaf.name=Red Maple Leaf
+
+#Blocks
+tile.letstrymod:EnderBrick.name=Ender Brick
